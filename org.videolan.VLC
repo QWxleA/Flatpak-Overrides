@@ -1,0 +1,9 @@
+[Context]
+shared=!ipc;!network
+devices=!all;dri
+filesystems=!xdg-run/gvfs;!host
+
+[Session Bus Policy]
+org.kde.kwalletd=none
+org.kde.kwalletd5=none
+org.freedesktop.secrets=none

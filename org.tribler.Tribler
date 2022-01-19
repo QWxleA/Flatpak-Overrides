@@ -1,0 +1,4 @@
+[Context]
+shared=!ipc
+sockets=!pulseaudio
+filesystems=!xdg-download/TriblerDownloads:create;~/Tribler

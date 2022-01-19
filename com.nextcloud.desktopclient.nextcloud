@@ -1,0 +1,4 @@
+[Context]
+shared=!ipc
+sockets=!x11
+filesystems=!xdg-run/Nextcloud:create;xdg-pictures;~/.icons:ro;xdg-documents;xdg-music;~/GitHub/arc-icon-theme:ro;~/GitHub/Mojave-CT:ro;!host

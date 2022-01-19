@@ -1,0 +1,9 @@
+[Context]
+shared=!ipc
+filesystems=xdg-config/gnupg;~/.gitconfig:ro;~/GitHub;xdg-download;~/.gnupg;!host
+
+[Environment]
+FLATPAK_ENABLE_SDK_EXT=node,openjdk
+
+[Session Bus Policy]
+org.freedesktop.secrets=none

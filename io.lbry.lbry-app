@@ -1,0 +1,6 @@
+[Context]
+shared=!ipc
+filesystems=xdg-download;!home
+
+[Session Bus Policy]
+org.freedesktop.secrets=none

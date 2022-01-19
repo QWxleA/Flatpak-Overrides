@@ -1,0 +1,5 @@
+[Context]
+shared=!ipc
+sockets=!pulseaudio
+devices=!all;dri
+filesystems=xdg-documents;xdg-download;!host
